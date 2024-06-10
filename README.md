@@ -1,21 +1,22 @@
 <a href="https://ondata.it/dona/"><img src="https://img.shields.io/badge/%F0%9F%92%AA-Sostienici-success"/></a> <a href="https://ondata.it/"><img src="https://img.shields.io/badge/by-onData-%232e85d1"/></a> <a href="https://ondata.substack.com/"> <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-Newsletter-%23cc3232" alt="✉️ Newsletter">
 </a>
 
-# Elezioni europee 2024: scrutini voti Italia
+# Elezioni europee 2024: scrutini voti "Italia"
 
 ## Premessa
 
 Il DAIT - Ministero dell'Interno Direzione Centrale per i Servizi Elettorali - S.I.E.C.C. [pubblica su Eligendo](https://elezioni.interno.gov.it/europee/scrutini/20240609/scrutiniEI) i dati elettorali **non in modalità leggibile meccanicamente**, in contrasto a come previsto da normativa e linee guida correnti.
 
-Dopo un po' di tempo verranno pubblicati i dati in formato aperto e leggibile meccanicamente. Ma sarebbe da fare subito, abilitando sia il *download* in blocco, che quello via *API* documentate, inserendo le dovute note del caso sulla eventuale momentanea incompletezza e/o ufficialità dei dati.
+Dopo un po' di tempo verranno pubblicati i dati in formato aperto e leggibile meccanicamente. Ma sarebbe da fare subito, abilitando sia il *download* in blocco, che quello via *API* documentate, inserendo le dovute note del caso sulla eventuale momentanea incompletezza e/o non ufficialità dei dati.
 
 Per questo ne abbiamo estratti alcuni, trasformati e resi disponibili in formato aperto e leggibile meccanicamente.
 
 ## Dati
 
-Sono estratti con lo schema disponibile su Eligendo. Ai campi originali ne sono stati aggiunti alcuni, utili per essere utilizzati al meglio.
+Sono estratti con lo schema disponibile su Eligendo. Non documentato.<br>
+Ai campi originali ne sono stati aggiunti alcuni, utili per essere utilizzati al meglio.
 
-Download:
+**Download**:
 
 - [**`insieme.csv`**](data/insieme.csv) - dati elettorali anagrafici di ogni Comune;
 - [**`liste.csv`**](data/liste.csv) - dati elettorali delle liste per ogni Comune.
@@ -24,6 +25,7 @@ Download:
 
 - mancano alcune sezioni, circa lo 0.4 delle sezioni;
 - sono stati estratti circa alle ore 12:00 del 10 giugno 2024;
+- sono i dati relativi soltanto ai voti dall'Italia, con l'esclusione dei voti "fuori sede" e dall'estero;
 - potrebbe esserci qualche errore, per favore segnalatecelo a info@ondata.it.
 
 Sei libero di usare questi dati come vuoi, ma ti chiediamo di citare la fonte e di inserire il link a questa pagina (ad esempio "Fonte dati: associazione onData").
