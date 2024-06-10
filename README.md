@@ -1,7 +1,7 @@
 <a href="https://ondata.it/dona/"><img src="https://img.shields.io/badge/%F0%9F%92%AA-Sostienici-success"/></a> <a href="https://ondata.it/"><img src="https://img.shields.io/badge/by-onData-%232e85d1"/></a> <a href="https://ondata.substack.com/"> <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-Newsletter-%23cc3232" alt="✉️ Newsletter">
 </a>
 
-# Elezioni europee 2024: scrutini voti "Italia"
+# Elezioni europee 2024: scrutini "Italia"
 
 ## Premessa
 
@@ -111,7 +111,7 @@ Si possono filtrare da questo elenco soltanto quelli di tipo `CM` (Comune), vede
 Ad esempio i dati del Comune di Aqui Terme - codice `1010020010` - sono accessibili al seguente URL:<br>
 <https://elezioni.interno.gov.it/europee/scrutini/20240609/scrutiniEI1010020010>
 
-Visualizzando il traffico web del browser si può vedere che la chiamata per recuperare i dati delle delle liste in JSON è come la seguente:
+Visualizzando il traffico web del *browser* si può vedere che la chiamata per recuperare i dati delle delle liste in JSON è come la seguente:
 
 ```bash
 curl --compressed 'https://eleapi.interno.gov.it/siel/PX/scrutiniEI/DE/20240609/TE/01/PR/002/CM/0010' \
