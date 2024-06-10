@@ -37,7 +37,7 @@ Questo primo dataset - [**`insieme.csv`**](data/insieme.csv) - contiene i dati e
 Ai dati originali sono stati aggiunti i campi `DESCRIZIONE COMUNE`, `SIGLA`, `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BELFIORE`. Il campo più importante è `CODICE ISTAT`, perché consente di collegare i dati con quelli di altre fonti e realizzare grafici e mappe interattive.<br>
 La fonte utile per aggiungere ai codici elettorali di Eligendo, i codici comunali Istat, è sempre il DAIT e la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)".
 
-Il campo `join`, deriva dalla normalizzazione del campo `cod_prov` e `cod_com` per poter fare il join la tabella appena citata.
+Il campo `join`, deriva dalla normalizzazione del campo `cod_prov` e `cod_com`, per poter fare il join la tabella appena citata.
 
 | join | codice | st | t_ele | f_elet | dt_ele | l_terr | area | cod_com | desc_com | cod_prov | desc_prov | ele_m | ele_f | ele_t | vot_m | vot_f | vot_t | perc_vot | sz_perv | sz_tot | fine_rip | sk_bianche | sk_nulle | sk_contestate | tot_vot_lis | non_valid | dt_agg | data_prec_elez | circ_sto | reg_sto | prov_sto | comu_sto | tipo_tras | NR. | DESCRIZIONE COMUNE | SIGLA | CODICE ELETTORALE | CODICE ISTAT | CODICE BELFIORE |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
