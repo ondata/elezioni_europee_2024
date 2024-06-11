@@ -124,4 +124,4 @@ Abbiamo allora replicato queste chiamate per tutti i Comuni e per tutte le liste
 
 ## Grazie
 
-Un grazie a [Raffaele Mastrolonardo](https://www.linkedin.com/in/mastrolonardo/), che quasi sempre è tra i principali spingitori di queste iniziative di apertura dei dati elettorali.
+Un grazie a [Raffaele Mastrolonardo](https://www.linkedin.com/in/mastrolonardo/), che quasi sempre è tra i principali "spingitori" di queste iniziative di apertura dei dati elettorali.
