@@ -7,7 +7,7 @@
 
 Il DAIT - Ministero dell'Interno Direzione Centrale per i Servizi Elettorali - S.I.E.C.C. [pubblica su Eligendo](https://elezioni.interno.gov.it/europee/scrutini/20240609/scrutiniEI) i dati elettorali **in modalità non leggibile meccanicamente**, in contrasto a come previsto da normativa e linee guida correnti.
 
-Dopo un po' di tempo verranno pubblicati anche in formato aperto e leggibile meccanicamente. Ma sarebbe da fare subito, abilitando sia il *download* in blocco, che quello via *API* documentate, inserendo le note del caso (sulla eventuale momentanea incompletezza e/o non ufficialità dei dati).
+In futuro verranno pubblicati anche in formato aperto e leggibile meccanicamente, ma sarebbe da fare subito, abilitando sia il *download* in blocco, che quello via *API* documentate. Inserendo le note del caso, sulla eventuale momentanea incompletezza e/o non ufficialità dei dati.
 
 Per questo ne abbiamo estratti alcuni, trasformati e resi disponibili in formato aperto e leggibile meccanicamente.
 
