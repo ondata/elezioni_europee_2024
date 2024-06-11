@@ -37,7 +37,7 @@ Questo primo dataset - [**`insieme.csv`**](data/insieme.csv) - contiene i dati e
 Ai dati originali sono stati aggiunti i campi `DESCRIZIONE COMUNE`, `SIGLA`, `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BELFIORE`. Il campo più importante è `CODICE ISTAT`, perché consente di collegare i dati con quelli di altre fonti e realizzare grafici e mappe interattive.<br>
 La fonte utile per aggiungere ai codici elettorali di Eligendo, i codici comunali Istat, è sempre il DAIT e la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)".
 
-Il campo `join`, deriva dalla normalizzazione del campo `cod_prov` e `cod_com`, per poter fare il join la tabella appena citata.
+Il campo `join`, deriva dalla normalizzazione del campo `cod_prov` e `cod_com`, per poter fare il *join* la tabella appena citata.
 
 | join | codice | st | t_ele | f_elet | dt_ele | l_terr | area | cod_com | desc_com | cod_prov | desc_prov | ele_m | ele_f | ele_t | vot_m | vot_f | vot_t | perc_vot | sz_perv | sz_tot | fine_rip | sk_bianche | sk_nulle | sk_contestate | tot_vot_lis | non_valid | dt_agg | data_prec_elez | circ_sto | reg_sto | prov_sto | comu_sto | tipo_tras | NR. | DESCRIZIONE COMUNE | SIGLA | CODICE ELETTORALE | CODICE ISTAT | CODICE BELFIORE |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BEL
 
 ## Come sono stati raccolti
 
-Leggendo il traffico web del browser è possibile visualizzare le chiamate che vengono fatte al server per recuperare i dati. Questi vengono restituiti in formato JSON.
+Leggendo il traffico web del *browser* è possibile visualizzare le chiamate che vengono fatte al server per recuperare i dati. Questi vengono restituiti in formato `JSON`.
 
 Tra i dati leggibili, uno di partenza quello con l'**anagrafica geografica**:<br>
 <https://elezioni.interno.gov.it/tornate/20240609/enti/europee_territoriale_italia.json>
@@ -107,7 +107,7 @@ Che contiene dati come questi di esempio di sotto:
 }
 ```
 
-Si possono filtrare da questo elenco soltanto quelli di tipo `CM` (Comune), vedere quali sono gli URL per visualizzare i dati di un Comune in particolare e definire qual è la chiamata da fare per scaricare i dati relativi.<br>
+Si possono filtrare da questo elenco soltanto quelli di tipo `CM` (Comune), vedere qual è l'URL per visualizzare la pagina web di un Comune e in questa verificare qual è la chiamata fatta per scaricare i dati relativi che alimentano la pagina.<br>
 Ad esempio i dati del Comune di Aqui Terme - codice `1010020010` - sono accessibili al seguente URL:<br>
 <https://elezioni.interno.gov.it/europee/scrutini/20240609/scrutiniEI1010020010>
 
