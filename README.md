@@ -129,3 +129,4 @@ Un grazie a [Raffaele Mastrolonardo](https://www.linkedin.com/in/mastrolonardo/)
 ## Chi ha usato questi dati
 
 - "[La Lega ha perso il Nord](https://www.ilpost.it/2024/06/11/lega-partito-nord-salvini/?homepagePosition=0)", Il Post
+- "[Europee 2024, chi ha vinto in ogni comune? La mappa del voto](https://tg24.sky.it/politica/approfondimenti/risultati-elezioni-europee-2024)", Raffaele Mastrolonardo, Sky TG24
