@@ -65,7 +65,7 @@ Qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BEL
 
 Leggendo il traffico web del *browser* è possibile visualizzare le chiamate che vengono fatte al server per recuperare i dati. Questi vengono restituiti in formato `JSON`.
 
-Tra i dati leggibili, uno di partenza quello con l'**anagrafica geografica**:<br>
+Tra i dati leggibili, uno di partenza è quello con l'**anagrafica geografica**:<br>
 <https://elezioni.interno.gov.it/tornate/20240609/enti/europee_territoriale_italia.json>
 
 Che contiene dati come questi di esempio di sotto:
