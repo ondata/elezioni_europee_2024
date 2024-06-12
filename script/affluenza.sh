@@ -17,7 +17,10 @@ for i in $(seq -w 1 106); do
     fi
 done
 
-curl --compressed 'https://eleapi.interno.gov.it/siel/PX/votanti/DE/20240609/TE/01/PR/111' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://elezioni.interno.gov.it/' >"${folder}"/../data/affluenza/111.json
+# aggiungere sud sardegna
+if [ ! -f "${folder}"/../data/affluenza/111.json ]; then
+    curl --compressed 'https://eleapi.interno.gov.it/siel/PX/votanti/DE/20240609/TE/01/PR/111' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://elezioni.interno.gov.it/' >"${folder}"/../data/affluenza/111.json
+fi
 
 
 # se "${folder}"/../data/affluenza.jsonl esiste, cancellalo
