@@ -1,3 +1,4 @@
 *.Identifier
 tmp*
 tmp
+script/tmp/
