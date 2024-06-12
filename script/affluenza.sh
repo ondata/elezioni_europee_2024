@@ -29,7 +29,7 @@ if [ -f "${folder}"/../data/affluenza.jsonl ]; then
 fi
 
 # per tutti i file json di affluenza, estrai alcuni dati e salvali in un file jsonl
-for i in $(ls "${folder}"/../data/affluenza/*.json); do
+for i in "${folder}"/../data/affluenza/*.json; do
     nomefile=$(basename "${i}" .json)
     jq -c '
       .enti.enti_f[] as $ente_f |
