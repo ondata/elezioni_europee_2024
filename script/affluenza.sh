@@ -56,15 +56,19 @@ for i in $(ls "${folder}"/../data/affluenza/*.json); do
     ' "${i}" >> "${folder}"/../data/affluenza.jsonl
 done
 
-# converti il jsonl in csv
+# aggiungi la colonna join, per fare il join con il file codici_comuni_10-06-2024.csv, con i codici ISTAT dei comuni
 mlrgo -I -S --jsonl put '$join=$cod_prov.fmtnum(int($cod),"%04d")' "${folder}"/../data/affluenza.jsonl
 
+# converti il jsonl in csv
 mlrgo --ijsonl --ocsv unsparsify "${folder}"/../data/affluenza.jsonl > "${folder}"/../data/affluenza.csv
 
+# estrai i campi necessari dal file codici_comuni_10-06-2024.csv
 mlrgo --csv cut -f join,"CODICE ISTAT" "${folder}"/../risorse/codici_comuni_10-06-2024.csv > "${folder}"/tmp.csv
 
+# fai il join tra il file affluenza.csv e il file codici_comuni_10-06-2024.csv
 mlrgo --csv join --ul -j join -f "${folder}"/../data/affluenza.csv then unsparsify "${folder}"/tmp.csv > "${folder}"/../data/tmp.csv
 
+# rinomina il file tmp.csv in affluenza.csv
 mv "${folder}"/../data/tmp.csv "${folder}"/../data/affluenza.csv
 
 # se il file "${folder}"/tmp.csv esiste, cancellalo
