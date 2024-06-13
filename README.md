@@ -52,7 +52,7 @@ Il campo `join`, deriva dalla normalizzazione del campo `cod_prov` e `cod_com`, 
 
 Questo secondo dataset - [**`liste.csv`**](data/liste.csv) - contiene i dati elettorali delle liste per ogni Comune.
 
-Qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BELFIORE`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)"
+Qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BELFIORE`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)".
 
 | codice | pos | desc_lis | img_lis | min | max_coll | voti | perc | CODICE ELETTORALE | CODICE ISTAT | CODICE BELFIORE |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ Questo terzo dataset - [**`affluenza.csv`**](data/affluenza.csv) - contiene i da
 
 Il campo `perc_r` è la percentuale della tornata precedente.
 
-Anche qui è stato aggiunto il `CODICE ISTAT`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)"
+Anche qui è stato aggiunto il `CODICE ISTAT`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)".
 
 | join | ente_p | cod_reg | cod_prov | desc | cod | ele_m | ele_f | ele_t | una_lis | tipo_tras | com | dt_com | enti_p | enti_t | perc | vot_m | vot_f | vot_t | perc_r | CODICE ISTAT |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
