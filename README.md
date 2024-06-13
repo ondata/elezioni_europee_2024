@@ -20,8 +20,9 @@ Ai campi originali ne sono stati aggiunti alcuni, utili per essere utilizzati al
 
 - [**`insieme.csv`**](data/insieme.csv) - dati elettorali anagrafici di ogni Comune;
 - [**`liste.csv`**](data/liste.csv) - dati elettorali delle liste per ogni Comune.
+- [**`affluenza.csv`**](data/affluenza.csv) - dati sull'affluenza per ogni Comune.
 
-**NOTA BENE**:
+**NOTE** su `insieme.csv` e `affluenza.csv`:
 
 - mancano alcune sezioni, circa lo 0.4 delle sezioni;
 - sono stati estratti circa alle ore 12:00 del 10 giugno 2024;
@@ -60,6 +61,23 @@ Qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BEL
 | 1010881620 | 1 | LIBERTA' | 1-20240609000000-1.png | N | null | 1 | 0,14 | 1010881620 | 002164 | M028 |
 | 4130230610 | 7 | LEGA SALVINI PREMIER | 1-20240609000000-7.png | N | null | 33 | 8,03 | 3130230610 | 069061 | G290 |
 | 2050890680 | 10 | AZIONE - SIAMO EUROPEI | 1-20240609000000-10.png | N | null | 368 | 3,97 | 1050890680 | 023069 | H783 |
+
+### Affluenza
+
+Questo terzo dataset - [**`affluenza.csv`**](data/affluenza.csv) - contiene i dati sull'affluenza per ogni Comune.
+
+Il campo `perc_r` è la percentuale rispetto alla tornata precedente.
+
+Anche qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BELFIORE`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)"
+
+| join | ente_p | cod_reg | cod_prov | desc | cod | ele_m | ele_f | ele_t | una_lis | tipo_tras | com | dt_com | enti_p | enti_t | perc | vot_m | vot_f | vot_t | perc_r | CODICE ISTAT |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0160170 | BRINDISI | 16 | 016 | SAN VITO DEI NORMANNI | 170 | 7485 | 8152 | 15637 | null | SZ | 4 | 20240609230000 | 19 | 19 | 36,35 | 2838 | 2846 | 5684 | 45,27 | 074017 |
+| 0520740 | NOVARA | 1 | 052 | GRANOZZO CON MONTICELLO | 740 | 559 | 587 | 1146 | null | SZ | 4 | 20240609230000 | 2 | 2 | 51,57 | 293 | 298 | 591 | 65,56 | 003077 |
+| 0100510 | BELLUNO | 5 | 010 | SAN VITO DI CADORE | 510 | 739 | 842 | 1581 | null | SZ | 4 | 20240609230000 | 2 | 2 | 55,41 | 419 | 457 | 876 | 53,89 | 025051 |
+| 0151090 | BRESCIA | 3 | 015 | NIARDO | 1090 | 789 | 833 | 1622 | null | CO | 4 | 20240609230000 | 2 | 2 | 66,21 | 524 | 550 | 1074 | 79,88 | 017118 |
+| 0571340 | PAVIA | 3 | 057 | SAN MARTINO SICCOMARIO | 1340 | 2349 | 2623 | 4972 | null | SZ | 4 | 20240609230000 | 5 | 5 | 65,37 | 1568 | 1682 | 3250 | 71,79 | 018137 |
+
 
 ## Come sono stati raccolti
 
