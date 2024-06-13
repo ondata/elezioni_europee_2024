@@ -66,7 +66,7 @@ Qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BEL
 
 Questo terzo dataset - [**`affluenza.csv`**](data/affluenza.csv) - contiene i dati sull'affluenza per ogni Comune.
 
-Il campo `perc_r` è la percentuale rispetto alla tornata precedente.
+Il campo `perc_r` è la percentuale della tornata precedente.
 
 Anche qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BELFIORE`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)"
 
