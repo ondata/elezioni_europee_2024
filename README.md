@@ -68,7 +68,7 @@ Questo terzo dataset - [**`affluenza.csv`**](data/affluenza.csv) - contiene i da
 
 Il campo `perc_r` è la percentuale della tornata precedente.
 
-Anche qui sono stati aggiunti i campi `CODICE ELETTORALE`, `CODICE ISTAT`, `CODICE BELFIORE`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)"
+Anche qui è stato aggiunto il `CODICE ISTAT`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)"
 
 | join | ente_p | cod_reg | cod_prov | desc | cod | ele_m | ele_f | ele_t | una_lis | tipo_tras | com | dt_com | enti_p | enti_t | perc | vot_m | vot_f | vot_t | perc_r | CODICE ISTAT |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
