@@ -151,7 +151,7 @@ Un grazie a [Raffaele Mastrolonardo](https://www.linkedin.com/in/mastrolonardo/)
 Insieme al referendum si è votato in diversi comuni. Ci troviamo davanti a queste barriere informative:
 
 - un file in formato PDF, non leggibile meccanicamente, con l'elenco dei comuni interessati, pubblicato [qui](https://dait.interno.gov.it/elezioni/documentazione/elezioni-amministrative-2024-elenco-enti-partecipanti-al-voto);
-- il file `xlsx` "[Comunali - Liste e candidati](https://elezioni.interno.gov.it/daithome/documenti/Comunali_ListeCandidati_20240609.xlsx)", pubblicato in questa pagina, che però non ha l'elenco di tutti i comuni in cui si è votato (ad esempio, mancano quelli della Sicilia);
+- il file `xlsx` "[Comunali - Liste e candidati](https://elezioni.interno.gov.it/daithome/documenti/Comunali_ListeCandidati_20240609.xlsx)", pubblicato in [questa pagina](https://elezioni.interno.gov.it/report/20240609), che però non ha l'elenco di tutti i comuni in cui si è votato (ad esempio, mancano quelli della Sicilia);
 - in entrambi i casi, non c'è il codice Istat dei comuni.
 
 Abbiamo allora estratto i dati dal PDF, li abbiamo resi disponibili in formato aperto e leggibile meccanicamente e aggiunto il codice Istat dei comuni: [`elenco_enti_partecipanti_amministrative_2024.csv`](risorse/elenco_enti_partecipanti_amministrative_2024.csv).

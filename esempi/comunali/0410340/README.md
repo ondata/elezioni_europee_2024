@@ -3,7 +3,7 @@
 Si parte dall'analizzare una pagina web con questi dati, come quella della sezione `1` del Comune di Lecce:<br>
 <https://elezioni.interno.gov.it/comunali/scrutini/20240609/scrutiniGI1604103400001>
 
-È bene prima aprirla dopo avere aperto i *developer tools* del *browser*, per vedere come è fatta la pagina e come sono organizzati i dati.<br>
+È bene aprirla dopo avere aperto i *developer tools* del *browser*, per vedere come è fatto il codice della la pagina e qual è il flusso dei dati sorgente.<br>
 Nei *developer tools* tenere aperto il *Network* tab.
 
 ![](imgs/dev_tool_01.png)
