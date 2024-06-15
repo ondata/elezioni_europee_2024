@@ -1,0 +1,317 @@
+{
+  "int": {
+    "st": "ESERCIZIO",
+    "t_ele": "Comunali",
+    "f_elet": "SCRUTINI",
+    "dt_ele": 20240609000000,
+    "l_terr": "SEZIONE",
+    "area": "I",
+    "desc_sez": "SEZIONE 1",
+    "cod_sez": 1,
+    "desc_com": "LECCE",
+    "cod_com": 340,
+    "desc_prov": "LECCE",
+    "cod_prov": 41,
+    "ele_m": 553,
+    "ele_f": 503,
+    "ele_t": 1056,
+    "vot_m": 238,
+    "vot_f": 210,
+    "vot_t": 448,
+    "perc_vot": "42,42",
+    "sz_p_sind": 1,
+    "sz_p_cons": 1,
+    "sz_tot": 1,
+    "fine_rip": "N",
+    "sk_bianche": 3,
+    "sk_nulle": 6,
+    "sk_contestate": 0,
+    "sg_spett": null,
+    "sg_ass": null,
+    "tot_vot_cand": 439,
+    "tot_vot_lis": 421,
+    "non_valid": null,
+    "dt_agg": 20240610182300,
+    "osp": "N",
+    "data_prec_elez": null,
+    "reg_sto": null,
+    "prov_sto": null,
+    "comu_sto": null,
+    "sez_sto": null
+  },
+  "note": [
+    "Non è previsto il dato retrospettivo a livello di sezione."
+  ],
+  "cand": [
+    {
+      "cogn": "POLI IN BORTONE",
+      "nome": "ADRIANA",
+      "a_nome": null,
+      "d_nasc": 19430825000000,
+      "l_nasc": "LECCE",
+      "pos": 2,
+      "voti": 249,
+      "perc": "56,72",
+      "eletto": null,
+      "tot_vot_lis": 227,
+      "perc_lis": "53,92",
+      "sg_ass": null,
+      "sort_coal": null,
+      "sg_sort_coal": null,
+      "liste": [
+        {
+          "pos": 8,
+          "descr_lista": "FRATELLI D'ITALIA",
+          "img_lis": "8-20240609000000-587657-0410340.png",
+          "voti": 46,
+          "perc": "10,93",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 2,
+          "descr_lista": "IO SUD",
+          "img_lis": "8-20240609000000-586805-0410340.png",
+          "voti": 44,
+          "perc": "10,45",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 9,
+          "descr_lista": "FORZA ITALIA - PPE",
+          "img_lis": "8-20240609000000-587671-0410340.png",
+          "voti": 23,
+          "perc": "5,46",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 5,
+          "descr_lista": "MOVIMENTO REGIONE SALENTO",
+          "img_lis": "8-20240609000000-587459-0410340.png",
+          "voti": 22,
+          "perc": "5,23",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 3,
+          "descr_lista": "PRIMA LECCE",
+          "img_lis": "8-20240609000000-587119-0410340.png",
+          "voti": 21,
+          "perc": "4,99",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 6,
+          "descr_lista": "UNIONE DI CENTRO-PUGLIA POPOLARE LECCE",
+          "img_lis": "8-20240609000000-587513-0410340.png",
+          "voti": 21,
+          "perc": "4,99",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 11,
+          "descr_lista": "TUTTA LECCE LISI",
+          "img_lis": "8-20240609000000-587641-0410340.png",
+          "voti": 20,
+          "perc": "4,75",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 10,
+          "descr_lista": "LECCE FUTURA PALA",
+          "img_lis": "8-20240609000000-587705-0410340.png",
+          "voti": 18,
+          "perc": "4,28",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 4,
+          "descr_lista": "LEGA SALVINI PUGLIA",
+          "img_lis": "8-20240609000000-587214-0410340.png",
+          "voti": 10,
+          "perc": "2,38",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 7,
+          "descr_lista": "VOCE NAZIONALE",
+          "img_lis": "8-20240609000000-587542-0410340.png",
+          "voti": 2,
+          "perc": "0,48",
+          "seggi": null,
+          "sort_lis": null
+        }
+      ]
+    },
+    {
+      "cogn": "SALVEMINI",
+      "nome": "CARLO MARIA",
+      "a_nome": null,
+      "d_nasc": 19660604000000,
+      "l_nasc": "LECCE",
+      "pos": 4,
+      "voti": 171,
+      "perc": "38,95",
+      "eletto": null,
+      "tot_vot_lis": 185,
+      "perc_lis": "43,94",
+      "sg_ass": null,
+      "sort_coal": null,
+      "sg_sort_coal": null,
+      "liste": [
+        {
+          "pos": 18,
+          "descr_lista": "LECCE CITTA' PUBBLICA",
+          "img_lis": "8-20240609000000-588443-0410340.png",
+          "voti": 47,
+          "perc": "11,16",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 19,
+          "descr_lista": "PARTITO DEMOCRATICO",
+          "img_lis": "8-20240609000000-588726-0410340.png",
+          "voti": 43,
+          "perc": "10,21",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 22,
+          "descr_lista": "AVANTI LECCE",
+          "img_lis": "8-20240609000000-588925-0410340.png",
+          "voti": 24,
+          "perc": "5,70",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 21,
+          "descr_lista": "COSCIENZA CIVICA",
+          "img_lis": "8-20240609000000-589078-0410340.png",
+          "voti": 19,
+          "perc": "4,51",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 14,
+          "descr_lista": "LECCE CITTA' GIUSTA-ALLEANZA VERDI E SINISTRA-PSI-CIVICHE",
+          "img_lis": "8-20240609000000-588253-0410340.png",
+          "voti": 13,
+          "perc": "3,09",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 17,
+          "descr_lista": "SVEGLIA",
+          "img_lis": "8-20240609000000-588397-0410340.png",
+          "voti": 13,
+          "perc": "3,09",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 15,
+          "descr_lista": "NOI PER LECCE",
+          "img_lis": "8-20240609000000-588230-0410340.png",
+          "voti": 12,
+          "perc": "2,85",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 16,
+          "descr_lista": "RIFORMISTI-ITALIA VIVA-+EUROPA-AZIONE-SIAMO EUROPEI",
+          "img_lis": "8-20240609000000-588313-0410340.png",
+          "voti": 7,
+          "perc": "1,66",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 20,
+          "descr_lista": "MOVIMENTO 5 STELLE",
+          "img_lis": "8-20240609000000-588874-0410340.png",
+          "voti": 7,
+          "perc": "1,66",
+          "seggi": null,
+          "sort_lis": null
+        }
+      ]
+    },
+    {
+      "cogn": "CIUCCI",
+      "nome": "AGOSTINO",
+      "a_nome": null,
+      "d_nasc": 19650716000000,
+      "l_nasc": "NAPOLI",
+      "pos": 1,
+      "voti": 12,
+      "perc": "2,73",
+      "eletto": null,
+      "tot_vot_lis": 7,
+      "perc_lis": "1,66",
+      "sg_ass": null,
+      "sort_coal": null,
+      "sg_sort_coal": null,
+      "liste": [
+        {
+          "pos": 1,
+          "descr_lista": "DIRITTI E CIVILTA' PER LECCE",
+          "img_lis": "8-20240609000000-586538-0410340.png",
+          "voti": 7,
+          "perc": "1,66",
+          "seggi": null,
+          "sort_lis": null
+        }
+      ]
+    },
+    {
+      "cogn": "SICULELLA",
+      "nome": "ALBERTO",
+      "a_nome": null,
+      "d_nasc": 19851203000000,
+      "l_nasc": "NARDO'",
+      "pos": 3,
+      "voti": 7,
+      "perc": "1,59",
+      "eletto": null,
+      "tot_vot_lis": 2,
+      "perc_lis": "0,48",
+      "sg_ass": null,
+      "sort_coal": null,
+      "sg_sort_coal": null,
+      "liste": [
+        {
+          "pos": 12,
+          "descr_lista": "ARIA",
+          "img_lis": "8-20240609000000-587868-0410340.png",
+          "voti": 1,
+          "perc": "0,24",
+          "seggi": null,
+          "sort_lis": null
+        },
+        {
+          "pos": 13,
+          "descr_lista": "MIND MENTI INDIPENDENTI",
+          "img_lis": "8-20240609000000-587879-0410340.png",
+          "voti": 1,
+          "perc": "0,24",
+          "seggi": null,
+          "sort_lis": null
+        }
+      ]
+    }
+  ]
+}
