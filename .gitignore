@@ -2,3 +2,8 @@
 tmp*
 tmp
 script/tmp/
+
+# Esempio sezioni Comune Lecce
+!esempi/comunali/0410340/script/tmp/
+esempi/comunali/0410340/script/tmp/*
+!esempi/comunali/0410340/script/tmp/0001.json

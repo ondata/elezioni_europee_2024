@@ -149,7 +149,7 @@ Un grazie a [Raffaele Mastrolonardo](https://www.linkedin.com/in/mastrolonardo/)
 - "[La Lega ha perso il Nord](https://www.ilpost.it/2024/06/11/lega-partito-nord-salvini/?homepagePosition=0)", Il Post
 - "[Europee 2024, chi ha vinto in ogni comune? La mappa del voto](https://tg24.sky.it/politica/approfondimenti/risultati-elezioni-europee-2024)", Raffaele Mastrolonardo, Sky TG24
 - Guenter Richter nelle [sue mappe](https://gjrichter.github.io/pages/Elezioni_Europee_2024_scrutini/index.html)
-- "[Com’è cambiata la geografia politica italiana dopo le elezioni europee](https://www.infodata.ilsole24ore.com/2024/06/11/come-cambiata-la-geografia-politica-italiana-dopo-le-elezioni-europee/)", Riccardo Saporiti, Il Sole 24 Ore
+- "[Com'è cambiata la geografia politica italiana dopo le elezioni europee](https://www.infodata.ilsole24ore.com/2024/06/11/come-cambiata-la-geografia-politica-italiana-dopo-le-elezioni-europee/)", Riccardo Saporiti, Il Sole 24 Ore
 - "[Dataset trend fra Elezioni Politiche Italiane 2022 e Elezioni Europee 2024](https://github.com/ruggsea/trend_europee_2024)", di Ruggero Marino Lazzaroni
 - "[Dove sono state vinte le elezioni europee 2024](https://x.com/gmdilella/status/1800616495728455806)", di Gianmarco Di Lella
-- "[Elezioni, chi non ha votato? Identikit dell’astensionismo in Italia](https://tg24.sky.it/politica/approfondimenti/elezioni-europee-affluenza-italia)", Raffaele Mastrolonardo, Sky TG24
+- "[Elezioni, chi non ha votato? Identikit dell'astensionismo in Italia](https://tg24.sky.it/politica/approfondimenti/elezioni-europee-affluenza-italia)", Raffaele Mastrolonardo, Sky TG24
