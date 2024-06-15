@@ -144,6 +144,21 @@ Abbiamo allora replicato queste chiamate per tutti i Comuni e per tutte le liste
 
 Un grazie a [Raffaele Mastrolonardo](https://www.linkedin.com/in/mastrolonardo/), che quasi sempre è tra i principali "spingitori" di queste iniziative di apertura dei dati elettorali.
 
+## Risorse
+
+### Elenco elezioni amministrative comunali
+
+Insieme al referendum si è votato in diversi comuni. Ci troviamo davanti a queste barriere informative:
+
+- un file in formato PDF, non leggibile meccanicamente, con l'elenco dei comuni interessati, pubblicato [qui](https://dait.interno.gov.it/elezioni/documentazione/elezioni-amministrative-2024-elenco-enti-partecipanti-al-voto);
+- il file `xlsx` "[Comunali - Liste e candidati](https://elezioni.interno.gov.it/daithome/documenti/Comunali_ListeCandidati_20240609.xlsx)", pubblicato in questa pagina, che però non ha l'elenco di tutti i comuni in cui si è votato (ad esempio, mancano quelli della Sicilia);
+- in entrambi i casi, non c'è il codice Istat dei comuni.
+
+Abbiamo allora estratto i dati dal PDF, li abbiamo resi disponibili in formato aperto e leggibile meccanicamente e aggiunto il codice Istat dei comuni: [`elenco_enti_partecipanti_amministrative_2024.csv`](risorse/elenco_enti_partecipanti_amministrative_2024.csv).
+
+
+**Nota bene**: dobbiamo verificare ancora l'assenza di 2-3 comuni, che sembrano non essere stati da noi estratti correttamente.
+
 ## Chi ha usato questi dati
 
 - "[La Lega ha perso il Nord](https://www.ilpost.it/2024/06/11/lega-partito-nord-salvini/?homepagePosition=0)", Il Post
