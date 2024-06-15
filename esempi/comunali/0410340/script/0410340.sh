@@ -44,4 +44,4 @@ for i in "${folder}"/tmp/*.json; do
 done
 
 # converti il file JSONL in CSV
-mlrgo -S --ijsonl --ocsv cat "${folder}"/../data/0410340.jsonl >>"${folder}"/../data/0410340.csv
+mlrgo -S --ijsonl --ocsv cat "${folder}"/../data/0410340.jsonl > "${folder}"/../data/0410340.csv
