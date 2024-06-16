@@ -168,3 +168,4 @@ Abbiamo allora estratto i dati dal PDF, li abbiamo resi disponibili in formato a
 - "[Dataset trend fra Elezioni Politiche Italiane 2022 e Elezioni Europee 2024](https://github.com/ruggsea/trend_europee_2024)", di Ruggero Marino Lazzaroni
 - "[Dove sono state vinte le elezioni europee 2024](https://x.com/gmdilella/status/1800616495728455806)", di Gianmarco Di Lella
 - "[Elezioni, chi non ha votato? Identikit dell'astensionismo in Italia](https://tg24.sky.it/politica/approfondimenti/elezioni-europee-affluenza-italia)", Raffaele Mastrolonardo, Sky TG24
+- "[Europee, il Pd che non ti aspetti, Tajani re delle due Sicilie e Salvini espugna il Molise](https://ilmanifesto.it/europee-il-pd-che-non-ti-aspetti-tajani-re-delle-due-sicilie-e-salvini-espugna-il-molise)", Ruggero Marino Lazzaroni, Il Manifesto
