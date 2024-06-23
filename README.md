@@ -169,3 +169,5 @@ Abbiamo allora estratto i dati dal PDF, li abbiamo resi disponibili in formato a
 - "[Dove sono state vinte le elezioni europee 2024](https://x.com/gmdilella/status/1800616495728455806)", di Gianmarco Di Lella
 - "[Elezioni, chi non ha votato? Identikit dell'astensionismo in Italia](https://tg24.sky.it/politica/approfondimenti/elezioni-europee-affluenza-italia)", Raffaele Mastrolonardo, Sky TG24
 - "[Europee, il Pd che non ti aspetti, Tajani re delle due Sicilie e Salvini espugna il Molise](https://ilmanifesto.it/europee-il-pd-che-non-ti-aspetti-tajani-re-delle-due-sicilie-e-salvini-espugna-il-molise)", Ruggero Marino Lazzaroni, Il Manifesto
+- "[Europee 2024, le differenze di genere nell'affluenza](https://x.com/ponzanni/status/1802452899760325045)", Luca Bonzanni
+- "[Elezioni Comune Lecce 2024](https://www.facebook.com/piersoft/posts/pfbid023CPZEEq4a1XCCCTSqXd4gym6EZVB1yWHVj4sEoFFsacyHwXcasvyJH8Z6pjutc5Bl?notif_id=1718816285744682&notif_t=mention&ref=notif)", Francesco Paolicelli
