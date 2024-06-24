@@ -20,7 +20,8 @@ Ai campi originali ne sono stati aggiunti alcuni, utili per essere utilizzati al
 
 - [**`insieme.csv`**](data/insieme.csv) - dati elettorali anagrafici di ogni Comune;
 - [**`liste.csv`**](data/liste.csv) - dati elettorali delle liste per ogni Comune;
-- [**`affluenza.csv`**](data/affluenza.csv) - dati sull'affluenza per ogni Comune.
+- [**`affluenza.csv`**](data/affluenza.csv) - dati sull'affluenza per ogni Comune;
+- [**`elenco_enti_partecipanti_amministrative_2024.csv`**](risorse/elenco_enti_partecipanti_amministrative_2024.csv)
 
 **NOTE** su `insieme.csv` e `affluenza.csv`:
 
@@ -77,6 +78,22 @@ Anche qui è stato aggiunto il `CODICE ISTAT`, sfruttando sempre la "[Tabella di
 | 0100510 | BELLUNO | 5 | 010 | SAN VITO DI CADORE | 510 | 739 | 842 | 1581 | null | SZ | 4 | 20240609230000 | 2 | 2 | 55,41 | 419 | 457 | 876 | 53,89 | 025051 |
 | 0151090 | BRESCIA | 3 | 015 | NIARDO | 1090 | 789 | 833 | 1622 | null | CO | 4 | 20240609230000 | 2 | 2 | 66,21 | 524 | 550 | 1074 | 79,88 | 017118 |
 | 0571340 | PAVIA | 3 | 057 | SAN MARTINO SICCOMARIO | 1340 | 2349 | 2623 | 4972 | null | SZ | 4 | 20240609230000 | 5 | 5 | 65,37 | 1568 | 1682 | 3250 | 71,79 | 018137 |
+
+### Elenco enti partecipanti amministrative 2024
+
+In parallelo alle Elezioni Europee si sono tenute le Elezioni Amministrative Comunali in diversi comuni. L'elenco degli enti partecipanti è stato pubblicato in formato PDF in [questa pagina del Viminale](https://dait.interno.gov.it/elezioni/documentazione/elezioni-amministrative-2024-elenco-enti-partecipanti-al-voto).
+
+Sono dati di grande interesse perché ad esempio l'affluenza alle urne è stata spesso diversa tra i comuni in cui si è votato e quelli in cui non si è votato.
+
+Anche qui è stato aggiunto il `CODICE ISTAT`, sfruttando sempre la "[Tabella di conversione codici dei comuni italiani](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data/elenco_codici_comuni_csv.php)".
+
+| comune | ref | numero_comuni | comuni_capoluogo | comuni_sup_15000 | comuni_inf_15000 | comuni_rinnovo_motivi_diversi | comuni_sciolti_rinnovo | popolazione_2021 | sezioni_2023 | elettori_2023 | CODICE ISTAT |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LOREGLIA | 11_table_01 | 1.0 |  |  | inf |  |  | 217 | 1 | 187 | 103038 |
+| DOLEGNA DEL COLLIO | 31_table_02 | 1.0 |  |  | inf |  |  | 317 | 1 | 401 | 031004 |
+| ALTINO | 49_table_02 | 1.0 |  |  | inf |  |  | 3075 | 3 | 2676 | 069001 |
+| ABBADIA SAN SALVATORE | 41_table_04 | 1.0 |  |  | inf |  |  | 6023 | 9 | 4816 | 052001 |
+| BESNATE | 23_table_03 | 1.0 |  |  | inf |  |  | 5475 | 4 | 4584 | 012012 |
 
 
 ## Come sono stati raccolti
