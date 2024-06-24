@@ -19,7 +19,7 @@ Ai campi originali ne sono stati aggiunti alcuni, utili per essere utilizzati al
 **Download**:
 
 - [**`insieme.csv`**](data/insieme.csv) - dati elettorali anagrafici di ogni Comune;
-- [**`liste.csv`**](data/liste.csv) - dati elettorali delle liste per ogni Comune.
+- [**`liste.csv`**](data/liste.csv) - dati elettorali delle liste per ogni Comune;
 - [**`affluenza.csv`**](data/affluenza.csv) - dati sull'affluenza per ogni Comune.
 
 **NOTE** su `insieme.csv` e `affluenza.csv`:
