@@ -21,7 +21,7 @@ Ai campi originali ne sono stati aggiunti alcuni, utili per essere utilizzati al
 - [**`insieme.csv`**](data/insieme.csv) - dati elettorali anagrafici di ogni Comune;
 - [**`liste.csv`**](data/liste.csv) - dati elettorali delle liste per ogni Comune;
 - [**`affluenza.csv`**](data/affluenza.csv) - dati sull'affluenza per ogni Comune;
-- [**`elenco_enti_partecipanti_amministrative_2024.csv`**](risorse/elenco_enti_partecipanti_amministrative_2024.csv)
+- [**`elenco_enti_partecipanti_amministrative_2024.csv`**](risorse/elenco_enti_partecipanti_amministrative_2024.csv) - dati sull'elenco degli enti partecipanti alle contemporanee elezioni amministrative.
 
 **NOTE** su `insieme.csv` e `affluenza.csv`:
 
