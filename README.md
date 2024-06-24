@@ -81,7 +81,7 @@ Anche qui è stato aggiunto il `CODICE ISTAT`, sfruttando sempre la "[Tabella di
 
 ### Elenco enti partecipanti amministrative 2024
 
-In parallelo alle Elezioni Europee si sono tenute le Elezioni Amministrative Comunali in diversi comuni. L'elenco degli enti partecipanti è stato pubblicato in formato PDF in [questa pagina del Viminale](https://dait.interno.gov.it/elezioni/documentazione/elezioni-amministrative-2024-elenco-enti-partecipanti-al-voto).
+In parallelo alle Elezioni Europee si sono tenute le Elezioni Amministrative Comunali in diversi comuni. L'elenco degli enti partecipanti è stato pubblicato in formato PDF in [questa pagina del Viminale](https://web.archive.org/web/20240624172135/https://dait.interno.gov.it/elezioni/documentazione/elezioni-amministrative-2024-elenco-enti-partecipanti-al-voto).
 
 Sono dati di grande interesse perché ad esempio l'affluenza alle urne è stata spesso diversa tra i comuni in cui si è votato e quelli in cui non si è votato.
 
