@@ -188,3 +188,4 @@ Abbiamo allora estratto i dati dal PDF, li abbiamo resi disponibili in formato a
 - "[Europee, il Pd che non ti aspetti, Tajani re delle due Sicilie e Salvini espugna il Molise](https://ilmanifesto.it/europee-il-pd-che-non-ti-aspetti-tajani-re-delle-due-sicilie-e-salvini-espugna-il-molise)", Ruggero Marino Lazzaroni, Il Manifesto
 - "[Europee 2024, le differenze di genere nell'affluenza](https://x.com/ponzanni/status/1802452899760325045)", Luca Bonzanni
 - "[Elezioni Comune Lecce 2024](https://www.facebook.com/piersoft/posts/pfbid023CPZEEq4a1XCCCTSqXd4gym6EZVB1yWHVj4sEoFFsacyHwXcasvyJH8Z6pjutc5Bl?notif_id=1718816285744682&notif_t=mention&ref=notif)", Francesco Paolicelli
+- "[Le elezioni europee e i dati ancora non pubblicati](https://open.substack.com/pub/dinicchia/p/le-elezioni-europee-e-i-dati-ancora?r=1wj20s&utm_campaign=post&utm_medium=web)", Gerlando Gibilaro e Andrea Borruso, nel podcast "Teste di nicchia"
