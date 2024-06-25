@@ -25,8 +25,7 @@ Ai campi originali ne sono stati aggiunti alcuni, utili per essere utilizzati al
 
 **NOTE** su `insieme.csv` e `affluenza.csv`:
 
-- mancano alcune sezioni, circa lo 0.4 delle sezioni;
-- sono stati estratti circa alle ore 12:00 del 10 giugno 2024;
+- sono stati estratti circa alle ore 12:00 del 10 giugno 2024 e mancano alcune sezioni;
 - sono i dati relativi soltanto ai voti dall'Italia, con l'esclusione dei voti "fuori sede" e dall'estero;
 - potrebbe esserci qualche errore, per favore segnalatecelo a info@ondata.it.
 
